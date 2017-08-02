@@ -1,4 +1,6 @@
 /Users/nikzz/Desktop/storm/examples/storm-example-app/src/main/java/com/example/bolt/CountBolt.java
 /Users/nikzz/Desktop/storm/examples/storm-example-app/src/main/java/com/example/bolt/ResultBolt.java
 /Users/nikzz/Desktop/storm/examples/storm-example-app/src/main/java/com/example/spout/WordSpout.java
-/Users/nikzz/Desktop/storm/examples/storm-example-app/src/main/java/com/example/Main.java
+/Users/nikzz/Desktop/storm/examples/storm-example-app/src/main/java/com/example/WordCountTopology.java
+/Users/nikzz/Desktop/storm/examples/storm-example-app/src/main/java/com/example/bolt/ExclamationBolt.java
+/Users/nikzz/Desktop/storm/examples/storm-example-app/src/main/java/com/example/ExclamationTopology.java

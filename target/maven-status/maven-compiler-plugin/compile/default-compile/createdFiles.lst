@@ -1,4 +1,6 @@
 com/example/bolt/ResultBolt.class
 com/example/spout/WordSpout.class
+com/example/WordCountTopology.class
+com/example/ExclamationTopology.class
 com/example/bolt/CountBolt.class
-com/example/Main.class
+com/example/bolt/ExclamationBolt.class
