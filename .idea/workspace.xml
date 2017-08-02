@@ -17,8 +17,20 @@
       <file leaf-file-name="WordCountTopology.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/WordCountTopology.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentenceCountTopology.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/SentenceCountTopology.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SentenceExclamationTopology.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SentenceExclamationTopology.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/SentenceExclamationTopology.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="265">
@@ -99,7 +111,7 @@
       <file leaf-file-name="CountBolt.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bolt/CountBolt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="190">
               <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -156,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/ExclamationTopology.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/spout/RandomSentenceSpout.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/SentenceExclamationTopology.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/SentenceCountTopology.java" />
       </list>
     </option>
   </component>
@@ -552,12 +565,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501325572386</updated>
-      <workItem from="1501325583940" duration="6703000" />
+      <workItem from="1501325583940" duration="7647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6703000" />
+    <option name="totallyTimeSpent" value="7647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1436" height="878" extended-state="6" />
@@ -628,30 +641,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bolt/CountBolt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bolt/ExclamationBolt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/WordCountTopology.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -700,6 +693,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bolt/CountBolt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/WordCountTopology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/SentenceCountTopology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

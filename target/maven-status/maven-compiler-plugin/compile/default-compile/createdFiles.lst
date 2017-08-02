@@ -1,6 +1,7 @@
 com/example/SentenceExclamationTopology.class
 com/example/spout/WordSpout.class
 com/example/WordCountTopology.class
+com/example/SentenceCountTopology.class
 com/example/bolt/ExclamationBolt.class
 com/example/bolt/ResultBolt.class
 com/example/ExclamationTopology.class
