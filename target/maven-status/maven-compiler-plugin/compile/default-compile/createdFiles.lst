@@ -2,7 +2,9 @@ com/example/SentenceExclamationTopology.class
 com/example/spout/WordSpout.class
 com/example/WordCountTopology.class
 com/example/SentenceCountTopology.class
+com/example/bolt/SplitSentenceBolt.class
 com/example/bolt/ExclamationBolt.class
+com/example/SentenceWordCountTopology.class
 com/example/bolt/ResultBolt.class
 com/example/ExclamationTopology.class
 com/example/bolt/CountBolt.class
